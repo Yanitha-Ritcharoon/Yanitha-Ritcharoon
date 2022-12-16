@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yanitha-Ritcharoon
 - 👀 I’m interested in art& craft, cooking, hiking, travel, and fashion.
 - 🌱 I’m currently learning Front-End bootcamp and UX/UI design.
-- 💞️ I’m looking to collaborate on Javascript, HTML, React, UX/UI design, and creative things. 
+- 💞️ I’m looking to collaborate on Javascript, HTML, React, and UX/UI design.
 - 📫 E-mail: yanitha.ritch@gmail.com
 
 <!---
